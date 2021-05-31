@@ -1,6 +1,6 @@
 # Computational-Mathematics
-Settlement assignments in Computational Mathematics, ITMO University, Faculty of Information Security, 2021
-TASKS:
+#Settlement assignments in Computational Mathematics, ITMO University, Faculty of Information Security, 2021
+#TASKS:
 1 APPROXIMATE NUMBERS AND SOURCES OF ERRORS 
 1.1 ABSOLUTE AND RELATIVE ERRORS 
 2 CALCULATION OF FUNCTIONS 
