@@ -5,7 +5,7 @@ Full work with theory is contained in [Full.pdf](https://github.com/cyberknopa/C
 ## TASKS:
 1. APPROXIMATE NUMBERS AND SOURCES OF ERRORS
 
-[1.1 ABSOLUTE AND RELATIVE ERRORS](https://github.com/cyberknopa/Computational-Mathematics-2021/blob/main/1_1_approximate-error-calculation.cpp)
+  [1.1 ABSOLUTE AND RELATIVE ERRORS](https://github.com/cyberknopa/Computational-Mathematics-2021/blob/main/1_1_approximate-error-calculation.cpp)
 #### 2 CALCULATION OF FUNCTIONS 
 ##### 2.1 GORNER SCHEME
 ##### 2.2 TAYLOR AND MACLOREN RANGE 
