@@ -6,6 +6,7 @@ Full work with theory is contained in [Full.pdf](https://github.com/cyberknopa/C
 __1. APPROXIMATE NUMBERS AND SOURCES OF ERRORS__
 
 - [1.1 ABSOLUTE AND RELATIVE ERRORS](https://github.com/cyberknopa/Computational-Mathematics-2021/blob/main/1_1_approximate-error-calculation.cpp)
+
 __2. CALCULATION OF FUNCTIONS__
 
 - [2.1 GORNER SCHEME](https://github.com/cyberknopa/Computational-Mathematics-2021/blob/main/2_1_horner-scheme.cpp)
